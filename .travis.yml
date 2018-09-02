@@ -3,5 +3,6 @@ node_js: node
 
 deploy:
   provider: heroku
-  api_key: f1NR_RzSbjaFLJXrXneWhg
+  api_key: 
+    secure: f1NR_RzSbjaFLJXrXneWhg
   app: secret-taiga-91750
