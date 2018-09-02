@@ -3,5 +3,4 @@ node_js: node
 
 deploy:
   provider: heroku
-  api_key: ...
-  app: secret-taiga-91750
+  app: fierce-woodland-14380
